@@ -4,14 +4,14 @@ Knex.js is a flexible and powerful SQL query builder for Node.js that works with
 
 ## Table of Contents
 
-1. [Installation and Setup](#installation-and-setup)
-2. [Basic CRUD Operations](#basic-crud-operations)
-3. [Advanced Queries](#advanced-queries)
-4. [Migrations and Seeders](#migrations-and-seeders)
-5. [Transactions](#transactions)
-6. [Join Strategies](#join-strategies)
-7. [Optimizing Queries](#optimizing-queries)
-8. [Handling Complex SQL Operations](#handling-complex-sql-operations)
+1. [Installation and Setup](#1-installation-and-setup)
+2. [Basic CRUD Operations](#2-basic-crud-operations)
+3. [Advanced Queries](#3-advanced-queries)
+4. [Migrations and Seeders](#4-migrations-and-seeders)
+5. [Transactions](#5-transactions)
+6. [Join Strategies](#6-join-strategies)
+7. [Optimizing Queries](#7-optimizing-queries)
+8. [Handling Complex SQL Operations](#8-handling-complex-sql-operations)
 
 ## 1. Installation and Setup
 
